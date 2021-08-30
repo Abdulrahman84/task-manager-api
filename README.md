@@ -1,7 +1,7 @@
 # task-manager-api
+A Simple CRUD Opreations App
 Built with Andrew Mead's course on Udemy (The Complete Node.js Developer Course (3rd Edition))
 
-A Simple CRUD Opreations App
 
 ## installation and running locally
 npm install
